@@ -34291,7 +34291,7 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-footer .u-text-1 {
-  margin: 49px 49px 0 26px;
+  margin: 49px 49px 60px 26px;
 }
 
 .u-footer .u-btn-1 {
@@ -34303,23 +34303,11 @@ a.u-link.u-text-hover-grey-90:hover {
   background-image: none;
   padding: 0;
 }
-
-.u-footer .u-btn-3 {
-  background-image: none;
-  border-style: none none solid;
-  margin: 30px 49px 60px 26px;
-  padding: 0;
-}
 @media (max-width: 1199px) {
   .u-footer .u-text-1 {
     width: 417px;
     margin-left: 0;
     margin-right: 0;
-  }
-
-  .u-footer .u-btn-3 {
-    margin-right: 0;
-    margin-left: 0;
   }
 }
 
