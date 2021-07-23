@@ -95,7 +95,6 @@
 
   .u-section-1 .u-layout-wrap-1 {
     position: relative;
-    min-height: 64px;
   }
 
   .u-section-1 .u-layout-cell-1 {
@@ -226,10 +225,6 @@
     width: auto;
     margin-left: 10px;
     margin-right: 10px;
-  }
-
-  .u-section-1 .u-layout-wrap-1 {
-    min-height: 8px;
   }
 
   .u-section-1 .u-layout-cell-3 {
